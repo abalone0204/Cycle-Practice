@@ -1,0 +1,11 @@
+$sudo_green:#50e2c2;
+$deep_blue:#23263a;
+
+h1, p,
+.toggleBox {
+    text-align: center;
+}
+body{
+    background: $deep_blue;
+    color: $sudo_green;
+}
